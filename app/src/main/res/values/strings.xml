@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Times de futebol Kotlin</string>
+
+    <string name="nomeBrasileiro">Campeonato Brasileiro</string>
+    <string name="nomeIngles">Campeonato Ingles</string>
+    <string name="nomeAlemao">Campeonato Alemao</string>
+    <string name="nomeEspanhol">Campeonato Espanhol</string>
+    <string name="nomeItaliano">Campeonato Italiano</string>
+
+    <string-array name="ArrayBrasileiro">
+        <item>Santos</item>
+        <item>São Paulo</item>
+        <item>Palmeiras</item>
+        <item>Corinthians</item>
+        <item>Flamengo</item>
+        <item>Vasco</item>
+        <item>Fluminense</item>
+        <item>Botafogo</item>
+        <item>Cruzeiro</item>
+        <item>Atletico-MG</item>
+        <item>Grêmio</item>
+        <item>Internacional</item>
+        <item>Bahia</item>
+    </string-array>
+
+    <string-array name="ArrayEstadiosTimesBR">
+        <item>Vila Belmiro</item>
+        <item>Morumbi</item>
+        <item>Allianz Parque</item>
+        <item>Arena Corinthians</item>
+        <item>Maracanã</item>
+        <item>São Januário</item>
+        <item>Maracanã</item>
+        <item>Nilton Santos</item>
+        <item>Mineirão</item>
+        <item>Independência</item>
+        <item>Arena do Gremio</item>
+        <item>Beira Rio</item>
+        <item>Fonte Luminosa</item>
+    </string-array>
+
+    <string-array name="ArrayTimesIngles">
+        <item>Chelsea</item>
+        <item>Manchester United</item>
+        <item>Manchester City</item>
+        <item>Liverpool</item>
+        <item>Leiscester</item>
+        <item>Tottenham</item>
+        <item>Arsenal</item>
+        <item>Waltford</item>
+        <item>Everton</item>
+        <item>West Ham</item>
+    </string-array>
+
+    <string-array name="ArrayEstadiosTimesING">
+        <item>Stamford Bridge</item>
+        <item>Old Trafford</item>
+        <item>City Of Manchester</item>
+        <item>Anfield</item>
+        <item>Leiscester Stadium</item>
+        <item>Wembley</item>
+        <item>Arsenal Stadium</item>
+        <item>Vicarage Road</item>
+        <item>Goodison Park</item>
+        <item>Olimpico de Londres</item>
+    </string-array>
+
+    <string-array name="ArrayEstadiosTimesGER">
+        <item>Arena de Munique</item>
+        <item>Leverkusem Arena</item>
+        <item>Wesfallenstadium</item>
+        <item>GelsenKirchen</item>
+        <item>FrankFurter Volksbank</item>
+        <item>Colonia</item>
+        <item>Mainz Arena</item>
+        <item>Olimpico de Berlin</item>
+        <item>RB Arena</item>
+        <item>Scharzwald Stadium</item>
+    </string-array>
+
+    <string-array name="ArrayTimesAlemao">
+        <item>Bayer de Munique</item>
+        <item>Bayer Leverkusem</item>
+        <item>Borussia Dortmum</item>
+        <item>Shalck 04</item>
+        <item>Hamburgo</item>
+        <item>Colonia</item>
+        <item>Mainz 05</item>
+        <item>Herta Berlin</item>
+        <item>RB Leipzig</item>
+        <item>Freiburg</item>
+    </string-array>
+
+    <string-array name="ArrayEstadiosTimesESP">
+        <item>Camp Nou</item>
+        <item>Santiago Bernábeu</item>
+        <item>Bennito Vilamarin</item>
+        <item>Metropolitano</item>
+        <item>Anoeta</item>
+        <item>Ciutat de valencia</item>
+        <item>Riazor</item>
+        <item>Inpurúa</item>
+        <item>Ramon Sanches Pizjuan</item>
+        <item>San Mamés</item>
+    </string-array>
+
+    <string-array name="ArrayTimesEspanhol">
+        <item>Barcelona</item>
+        <item>Real Madri</item>
+        <item>Betis</item>
+        <item>Atletico de Madri</item>
+        <item>Real Sociedad</item>
+        <item>Levante</item>
+        <item>La Corunã</item>
+        <item>Eibar</item>
+        <item>Sevilla</item>
+        <item>Atletico Bilbao</item>
+    </string-array>
+
+    <string-array name="ArrayEstadiosTimesITA">
+        <item>Giuseppe Meazza</item>
+        <item>Giuseppe Meazza</item>
+        <item>Olimpico de Roma</item>
+        <item>Juventus Stadium</item>
+        <item>San Paolo</item>
+        <item>Artemio Franchin</item>
+        <item>Atleti Azzurri D\Italia</item>
+        <item>Friuli</item>
+        <item>Santelia</item>
+        <item>Olimpico de Turin</item>
+    </string-array>
+
+    <string-array name="ArrayTimesItaliano">
+        <item>Inter de Milão</item>
+        <item>Milan</item>
+        <item>Roma</item>
+        <item>Juventus</item>
+        <item>Napoli</item>
+        <item>Fiorentina</item>
+        <item>Atalanta</item>
+        <item>Udinese</item>
+        <item>Cagliari</item>
+        <item>Torino</item>
+    </string-array>
+</resources>

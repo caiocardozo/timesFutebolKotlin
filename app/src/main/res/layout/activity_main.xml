@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.caio.caiocardozo.timesfutebolkotlin.MainActivity">
+
+    <TextView
+        android:id="@+id/textBrasileiro"
+        style="@style/CategoriaStyle"
+        android:background="@color/colorBrasileiro"
+        android:text="@string/nomeBrasileiro" />
+    <TextView
+        android:id="@+id/textIngles"
+        style="@style/CategoriaStyle"
+        android:background="@color/colorIngles"
+        android:text="@string/nomeIngles"/>
+    <TextView
+        android:id="@+id/textEspanhol"
+        style="@style/CategoriaStyle"
+        android:background="@color/colorEspanhol"
+        android:text="@string/nomeEspanhol"/>
+    <TextView
+        android:id="@+id/textAlemao"
+        style="@style/CategoriaStyle"
+        android:background="@color/colorAlemao"
+        android:text="@string/nomeAlemao" />
+    <TextView
+        android:id="@+id/textItaliano"
+        style="@style/CategoriaStyle"
+        android:background="@color/colorItaliano"
+        android:text="@string/nomeItaliano"/>
+
+</LinearLayout>

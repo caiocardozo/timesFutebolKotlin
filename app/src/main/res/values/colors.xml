@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorBrasileiro">#006400</color>
+    <color name="colorEspanhol">#00BFFF</color>
+    <color name="colorAlemao">#8B0000</color>
+    <color name="colorIngles">#FFB90F</color>
+    <color name="colorItaliano">#68228B</color>
+</resources>
